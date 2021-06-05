@@ -38,14 +38,14 @@ img {width: 15px;}
 - :man_cook: Food & Cooking
 - :cocktail: Cocktails
 
-[sogang]: image_source\sogang.png
-[kr]: image_source\southkorea.png
-[de]: image_source\germany.png
-[html]: image_source\html5.png
-[css]: image_source\css.png
-[js]: image_source\js.png
-[react]: image_source\react.png
-[node]: image_source\nodejs.png
-[python]: image_source\python.png
-[django]: image_source\django.png
-[c]: image_source\c.png
+[sogang]: image_source/sogang.png
+[kr]: image_source/southkorea.png
+[de]: image_source/germany.png
+[html]: image_source/html5.png
+[css]: image_source/css.png
+[js]: image_source/js.png
+[react]: image_source/react.png
+[node]: image_source/nodejs.png
+[python]: image_source/python.png
+[django]: image_source/django.png
+[c]: image_source/c.png
