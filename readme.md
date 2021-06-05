@@ -1,24 +1,20 @@
-<style>
-img {width: 15px;}
-</style>
-
 # Welcome, My name is Yo Wook! :wave:
 :eyes: Witness the every day development of a developer :eyes:
 
 <br>
 
-### 🎓Student of ![sogang][sogang] **Sogang University** 🎓<br>
-(Soon to be) :man_student: Bachelor in ![kr][kr] *Global Korean Studies* &  ![de][de]*German Culture*
+### 🎓Student of <img src="image_source/sogang.png" alt="sogang" width="15"> **Sogang University** 🎓<br>
+(Soon to be) :man_student: Bachelor in <img src="image_source/southkorea.png" alt="south korea" width="20"> *Global Korean Studies* &  <img src="image_source/germany.png" alt="germany" width="20"> *German Culture*
 
 <br>
 
 ## :bow_and_arrow: Aiming to be fullstack developer
 ### :computer: Currently Working With:
-- ![html][html] HTML5 & ![css][css] CSS3 & ![js][js] JavaScript
-- ![react][react] REACT 
-- ![node][node] Node.js 
-- ![python][python] Python & ![django][django] Django
-- ![c][c] C
+- <img src="image_source/html5.png" alt="html" width="20"> HTML5 & <img src="image_source/css.png" alt="css" width="20"> CSS3 & <img src="image_source/js.png" alt="js" width="20"> JavaScript
+- <img src="image_source/react.png" alt="react" width="20"> React 
+- <img src="image_source/node.png" alt="node" width="20"> Node.js 
+- <img src="image_source/python.png" alt="python" width="20"> Python & <img src="image_source/django.png" alt="django" width="20"> Django
+- <img src="image_source/c.png" alt="c" width="20"> C
 
 ### 🎯 Current Goal
 - Daily Commits throughout Summer Vacation 🏖
@@ -38,14 +34,3 @@ img {width: 15px;}
 - :man_cook: Food & Cooking
 - :cocktail: Cocktails
 
-[sogang]: image_source/sogang.png
-[kr]: image_source/southkorea.png
-[de]: image_source/germany.png
-[html]: image_source/html5.png
-[css]: image_source/css.png
-[js]: image_source/js.png
-[react]: image_source/react.png
-[node]: image_source/nodejs.png
-[python]: image_source/python.png
-[django]: image_source/django.png
-[c]: image_source/c.png
