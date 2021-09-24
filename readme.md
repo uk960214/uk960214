@@ -17,7 +17,6 @@
 - <img src="image_source/c.png" alt="c" width="20"> C
 
 ### 🎯 Current Goal
-- Daily Commits throughout Summer Vacation 🏖
 - Completing CS50x course :runner:
 - Contributing to Open Source
 
