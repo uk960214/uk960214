@@ -8,7 +8,7 @@
 
 <br>
 
-## :bow_and_arrow: Aiming to be fullstack developer
+## :bow_and_arrow: Front End Developer
 ### :computer: Currently Working With:
 - <img src="image_source/html5.png" alt="html" width="20"> HTML5 & <img src="image_source/css.png" alt="css" width="20"> CSS3 & <img src="image_source/js.png" alt="js" width="20"> JavaScript
 - <img src="image_source/react.png" alt="react" width="20"> React 
