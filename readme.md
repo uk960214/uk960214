@@ -4,7 +4,7 @@
 <br>
 
 ### 🎓Student of <img src="image_source/sogang.png" alt="sogang" width="15"> **Sogang University** 🎓<br>
-(Soon to be) :man_student: Bachelor in <img src="image_source/southkorea.png" alt="south korea" width="20"> *Global Korean Studies* &  <img src="image_source/germany.png" alt="germany" width="20"> *German Culture*
+:man_student: Bachelor in <img src="image_source/southkorea.png" alt="south korea" width="20"> *Global Korean Studies* &  <img src="image_source/germany.png" alt="germany" width="20"> *German Culture*
 
 <br>
 
@@ -16,9 +16,6 @@
 - <img src="image_source/python.png" alt="python" width="20"> Python & <img src="image_source/django.png" alt="django" width="20"> Django
 - <img src="image_source/c.png" alt="c" width="20"> C
 
-### 🎯 Current Goal
-- Completing CS50x course :runner:
-- Contributing to Open Source
 
 ### :dancers: Member of
 - [Zero To Mastery Community](https://github.com/zero-to-mastery) 
