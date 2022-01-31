@@ -1,5 +1,4 @@
 # Welcome, My name is Yo Wook! :wave:
-:eyes: Witness the every day development of a developer :eyes:
 
 <br>
 
@@ -10,8 +9,8 @@
 
 ## :bow_and_arrow: Front End Developer
 ### :computer: Currently Working With:
-- <img src="image_source/html5.png" alt="html" width="20"> HTML5 & <img src="image_source/css.png" alt="css" width="20"> CSS3 & <img src="image_source/js.png" alt="js" width="20"> JavaScript
 - <img src="image_source/react.png" alt="react" width="20"> React 
+- <img src="image_source/html5.png" alt="html" width="20"> HTML5 & <img src="image_source/css.png" alt="css" width="20"> CSS3 & <img src="image_source/js.png" alt="js" width="20"> JavaScript
 - <img src="image_source/nodejs.png" alt="node" width="20"> Node.js 
 - <img src="image_source/python.png" alt="python" width="20"> Python & <img src="image_source/django.png" alt="django" width="20"> Django
 - <img src="image_source/c.png" alt="c" width="20"> C
