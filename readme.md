@@ -29,4 +29,5 @@
 - :musical_note: Music & Singing
 - :man_cook: Food & Cooking
 - :cocktail: Cocktails
+- :earth_asia: Environment
 
