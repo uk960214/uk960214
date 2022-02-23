@@ -14,13 +14,14 @@
 
 - <img src="image_source/python.png" alt="python" width="20"> Python & <img src="image_source/django.png" alt="django" width="20"> Django
 - <img src="image_source/nodejs.png" alt="node" width="20"> Node.js 
-- <img src="image_source/c.png" alt="c" width="20"> C
 
 
 ### :dancers: Member of
+- 우테코
 - [Zero To Mastery Community](https://github.com/zero-to-mastery) 
 - [CS50x Community](https://github.com/cs50)
 - Likelion Sogang (Year 9)
+
 
 ### :fountain_pen: Visit My Tech Blog: [Koowoy Devs](https://uk960214.github.io/)
 
