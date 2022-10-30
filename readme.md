@@ -11,10 +11,11 @@
 
 # 📝 Visit My Blogs!
   - [**Medium**](https://medium.com/@uk960214) (Korean)
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
   - [**Prolog**](https://prolog.techcourse.co.kr/uk960214/studylogs) (Korean)
   - [**Github.io**](https://uk960214.github.io/) (English, old)
+## ✒ Latest Posts
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
   
 # 🛠 Languages and Tools
 <p align="left">
